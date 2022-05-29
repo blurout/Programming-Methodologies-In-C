@@ -1,2 +1,2 @@
 # Programming-Methodologies-In-C-
-Open source repository for college level programming in C++
+Open source repository for beginner college level programming in C++
